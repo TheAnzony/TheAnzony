@@ -1,5 +1,8 @@
-# <img src="icono.png" style="border-radius: 50%; vertical-align: middle; margin-right: -20px;"> ¡Hola, soy Antonio Nicolás! 👋
-
+<p>
+  <h1> <img src="icono.png" width="128" height="128" style="border-radius: 50%;" align="middle">
+  ¡Hola, soy Antonio Nicolás! 👋
+  </h1>
+</p>
 
 ## 🚀 Mi Ruta en DAM 1.0
 

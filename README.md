@@ -6,9 +6,11 @@
 
 ## 🚀 Mi Ruta en DAM 1.0
 
-> **Status:** `Compilando mi futuro...` ⚙️  
+> **Status:** `Compilando mi futuro...` ⚙️
+> 
 > **Ubicación:** `localhost:8080` | Entre Java y Python 🍵
-> **Progreso de Grado:** <progress value="50" max="100"></progress> 🛠️ 
+> 
+> **Progreso de Grado:** <img src="https://geps.dev/progress/50" alt="progress bar" /> 🛠️
 
 Actualmente estoy sumergido en el mundo del **Desarrollo de Aplicaciones Multiplataforma**. Mi día a día consiste en convertir lógica en algoritmos, pelearme con el punto y coma en Java y diseñar bases de datos que tengan sentido.
 

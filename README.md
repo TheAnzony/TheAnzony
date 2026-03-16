@@ -52,7 +52,7 @@ Como estoy en mi primer año, aquí iré subiendo las prácticas más interesant
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:tonii.anr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/antonio-nicolass/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contactar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/antonio-nicolass/)
 
 ---
 *Este perfil se irá actualizando a medida que avance en mi grado superior. ¡Gracias por pasarte!* 😊
